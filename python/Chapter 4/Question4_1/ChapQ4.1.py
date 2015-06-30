@@ -1,6 +1,6 @@
 import random
 
-#binary tree python
+#binary tree python 2.6
 class BinaryTree:
     def __init__(self, content):
         self.content = content
